@@ -30,7 +30,9 @@
   --fab-size: clamp(58px, 8vw, 88px);
 }
 
-*{ box-sizing: border-box; }
+*{ box-sizing: border-box; 
+ -webkit-tap-highlight-color: transparent;
+ }
 html, body{ height: 100%; }
 html{
   -webkit-text-size-adjust: 100%;
