@@ -15,7 +15,7 @@ let currentAudioSrc = null;
 
 // Filenames in /audio match each page that has a track
 const PAGE_AUDIO = {
-  home: "audio/home_page.mp3",
+  gift1: "audio/home_page.mp3",
   gift2: "audio/gift_page_2.mp3",
   letter: "audio/letter_page.mp3",
 };
